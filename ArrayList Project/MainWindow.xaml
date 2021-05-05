@@ -1,0 +1,17 @@
+﻿<Window x:Class="ArrayList_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArrayList_Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="___No_Name_">
+        <TextBox HorizontalAlignment="Left" Height="400" Margin="0,10,-0.4,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="794" Background="#FF543B51"/>
+        <TextBox x:Name="txtdata" HorizontalAlignment="Left" Height="32" Margin="88,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374"/>
+        <Button x:Name="show" Content="Show" HorizontalAlignment="Left" Height="45" Margin="177,206,0,0" VerticalAlignment="Top" Width="171" FontSize="20" Click="show_Click" Background="#FF45B446" Foreground="White" FontWeight="Bold" FontFamily="HP Simplified"/>
+        <Button x:Name="add" Content="Add" HorizontalAlignment="Left" Height="50" Margin="486,131,0,0" VerticalAlignment="Top" Width="122" FontSize="20" Click="add_Click" Background="#FF3F6BA3" Foreground="White" FontWeight="Bold" FontFamily="HP Simplified"/>
+        <Button x:Name="remove" Content="Remove" HorizontalAlignment="Left" Height="50" Margin="635,131,0,0" VerticalAlignment="Top" Width="122" FontSize="20" Click="remove_Click" FontFamily="HP Simplified" FontWeight="Bold" Foreground="White" Background="#FFE4D76C"/>
+        <Button x:Name="clear" Content="Clear All" HorizontalAlignment="Left" Margin="403,219,0,0" VerticalAlignment="Top" Width="77" Height="26" Click="clear_Click" Background="#FFC2263D" Foreground="White" FontWeight="Bold"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\bin\Debug\ArrayList Project.exe.config
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\bin\Debug\ArrayList Project.exe
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\bin\Debug\ArrayList Project.pdb
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\MainWindow.g.cs
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\App.g.cs
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList Project_MarkupCompile.cache
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList Project_MarkupCompile.lref
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\MainWindow.baml
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList Project.g.resources
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList_Project.Properties.Resources.resources
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList Project.csproj.GenerateResource.cache
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList Project.csproj.CoreCompileInputs.cache
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList Project.exe
+C:\Users\พิช\source\repos\ArrayList Project\ArrayList Project\obj\Debug\ArrayList Project.pdb
