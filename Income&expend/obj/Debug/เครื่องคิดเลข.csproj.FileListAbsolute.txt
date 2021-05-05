@@ -1,0 +1,15 @@
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\MainWindow.g.cs
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\App.g.cs
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข_MarkupCompile.cache
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข_MarkupCompile.lref
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\เครื่องคิดเลข.exe.config
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\เครื่องคิดเลข.exe
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\เครื่องคิดเลข.pdb
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\MainWindow.baml
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข.g.resources
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข.Properties.Resources.resources
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข.csproj.GenerateResource.cache
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข.csproj.CoreCompileInputs.cache
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข.exe
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข.pdb
+C:\Users\พิช\source\repos\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\เครื่องคิดเลข.csprojAssemblyReference.cache

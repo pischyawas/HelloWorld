@@ -25,11 +25,9 @@ namespace HelloGUI
             InitializeComponent();
         }
 
-      
-
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            double input, output,process, dream;
+            double input, output, process, dream;
 
             input = Convert.ToDouble(txtinput.Text);
             output = Convert.ToDouble(txtoutput.Text);
@@ -39,6 +37,5 @@ namespace HelloGUI
 
             txtprocess.Text = day;
         }
-        
     }
 }
