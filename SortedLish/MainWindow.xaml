@@ -1,0 +1,30 @@
+﻿<Window x:Class="Sorted.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sorted"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="129.2" Width="225.6">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox HorizontalAlignment="Left" Height="529" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="317" Margin="-21,-109,-76.8,-320" RenderTransformOrigin="0.5,0.5" Background="#FFDF5050">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.931"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+
+        <Button x:Name="add" Content="Add" HorizontalAlignment="Left" Height="31" Margin="143,27,0,0" VerticalAlignment="Top" Width="62" FontWeight="Bold" Foreground="White" Background="#FF38709D" Click="add_Click"/>
+        <TextBox x:Name="keyTxt" HorizontalAlignment="Left" Height="27" Margin="23,10,0,0" TextWrapping="Wrap" Text="key" VerticalAlignment="Top" Width="109"/>
+        <TextBox x:Name="valueTxt" HorizontalAlignment="Left" Height="27" Margin="23,54,0,0" TextWrapping="Wrap" Text="value" VerticalAlignment="Top" Width="109"/>
+
+    </Grid>
+</Window>

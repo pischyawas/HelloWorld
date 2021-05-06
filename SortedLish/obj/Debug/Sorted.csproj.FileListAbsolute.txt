@@ -1,0 +1,15 @@
+C:\Users\พิช\source\repos\Sorted\Sorted\bin\Debug\Sorted.exe.config
+C:\Users\พิช\source\repos\Sorted\Sorted\bin\Debug\Sorted.exe
+C:\Users\พิช\source\repos\Sorted\Sorted\bin\Debug\Sorted.pdb
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted.csprojAssemblyReference.cache
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\MainWindow.g.cs
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\App.g.cs
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted_MarkupCompile.cache
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted_MarkupCompile.lref
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\MainWindow.baml
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted.g.resources
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted.Properties.Resources.resources
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted.csproj.GenerateResource.cache
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted.csproj.CoreCompileInputs.cache
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted.exe
+C:\Users\พิช\source\repos\Sorted\Sorted\obj\Debug\Sorted.pdb
