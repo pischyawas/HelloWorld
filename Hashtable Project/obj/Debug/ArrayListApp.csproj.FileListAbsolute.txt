@@ -1,0 +1,15 @@
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe.config
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.pdb
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csprojAssemblyReference.cache
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.g.cs
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\App.g.cs
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.cache
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.lref
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.baml
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.g.resources
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.Properties.Resources.resources
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.GenerateResource.cache
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.exe
+C:\Users\พิช\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.pdb
