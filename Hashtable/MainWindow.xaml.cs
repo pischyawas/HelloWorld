@@ -51,13 +51,14 @@ namespace ArrayListApp
             }
             else
             {
-                hashtable.Remove(key.Text);
+                hashtable.Remove(value.Text);
 
                 MessageBox.Show("*ลบ* " + key.Text);
-                key.Text = " ";
+
+                value.Text = " ";
             }
 
-        }    
+        }
         private void Show_Click(object sender, RoutedEventArgs e)
         {
            
